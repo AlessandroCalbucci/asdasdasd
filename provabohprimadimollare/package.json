@@ -1,5 +1,5 @@
 {
-  "name": "tensormodel",
+  "name": "provabohprimadimollare",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,13 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "expo": "^47.0.0",
-    "expo-camera": "~13.0.0",
-    "expo-gl": "~12.0.0",
-    "expo-gl-cpp": "7.0.0",
+    "@unimodules/core": "^7.1.2",
     "react": "18.1.0",
-    "react-native": "0.70.5",
-    "react-native-gradle-plugin": "^0.72.0"
+    "react-native": "0.70.6",
+    "react-native-unimodules": "^0.14.10"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
